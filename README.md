@@ -7,6 +7,6 @@ https://www.starbucks.com.br , http://sofacafe.com.br/o-sofa/ , https://www.urbe
 
 3. Funcionalidades: 
 
-Avaliar: Com essa ferramenta os clientes são capazes de dar notas para nossos cafés e até mesmo fazer comentários à respeito.
+- Avaliar: Com essa ferramenta os clientes são capazes de dar notas para nossos cafés e até mesmo fazer comentários à respeito.
 
 4. Contato: paulo8512@gmail.com / joaovictorcurso1@gmail.com
